@@ -1,0 +1,496 @@
+Paciente	Muestra	Fecha	Dias_postrasplante	Edad	 VEB_donador	VEB_receptor	CMV_donador	CMV_receptor	Rechazo	leuVEB	leuCMV	leuHHV6	leuHHV7	leuVSK	pVEB	pCMV	pHHV6	pHHV7	pVSK	Grupo	IL-1b	IL-2	IL-4	IL-5	IL-6	IL-7	IL-8	IL-10	IL-12	IL-13	IL-17	INF-g	MCP-1	MIP-1b	TNF-a	G-CSF	GM-CSF
+TR1	TR1.0	01/02/16	-1	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	13320	0	0	0	0	2																	
+TR1	TR1.1	17/02/16	15	7	positivo	negativo	negativo	positivo	NO	0	0	0	260	0	2820	0	0	0	0	4	0.02	1.01	0.27	0	0.86	2.43	3.07	0.03	1.97	0.6	0.17	1.1	9.78	1.01	2.73	0	0
+TR1	TR1.2	02/03/16	29	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.9	0.5	0.02	0	0.15	1.88	3.07	0	0	0.15	1.06	0	2.85	4.66	1.16	0	0
+TR1	TR1.3	07/03/16	34	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR1	TR1.4	16/03/16	43	7	positivo	negativo	negativo	positivo	NO	0	0	0	220	0	0	0	0	4140	0	2	0.22	0.05	0	0	1.05	0	1.47	0	0.02	0.15	0.08	0	5.93	1.83	1.5	0	0
+TR1	TR1.5	04/04/16	62	7	positivo	negativo	negativo	positivo	SI	0	0	0	230	0	0	0	0	1440	0	1	0.3	0.5	0.03	0	1.56	2.3	4.18	0	0	0.15	0.62	0.08	4.48	6.06	3.43	0	0
+TR1	TR1.6	11/04/16	69	7	positivo	negativo	negativo	positivo	SI	0	0	0	0	0	0	0	0	3600	0	1	0.53	0	0	0	0	11.64	18	0	0	0.54	1.63	0.78	10.91	21.47	7.61	0	0
+TR1	TR1.7	18/04/16	76	7	positivo	negativo	negativo	positivo	SI	0	0	0	0	0	4500	0	0	4500	0	3	0.4	0.67	0.11	0	0.32	2.63	3.04	0	0.02	0.38	1.02	0.58	5.96	3.67	4.14	0	0
+TR1	TR1.8	02/05/16	90	7	positivo	negativo	negativo	positivo	NO	0	0	0	330	0	1260	0	0	0	0	4	0	0.5	0.1	0	1.12	1.05	2.57	1.61	0.84	0.34	0.35	0.34	20.39	2.24	3.08	0	0
+TR1	TR1.9	06/06/16	125	7	positivo	negativo	negativo	positivo	NO	0	0	0	210	0	0	0	0	1920	0	2	0.03	0.32	0.02	0	0.73	0	1.73	2.9	0	0.11	0.35	0	31.6	4.72	2.93	0	0
+TR1	TR1.10	27/06/16	146	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR1	TR1.11	27/07/16	176	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	3.46	0	2	0	0	0	0	0	10.54	1.76	2.34	0	0
+TR1	TR1.12	22/08/16	209	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	0	0	0	5220	0	2	0.53	0	0	0	0	4.25	2.29	0	0	0.31	1.11	0.88	37.55	9.49	8.9	0	0
+TR1	TR1.13	10/10/16	251	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0	0	0	0	5.9	0	0	0	0.95	1.63	0.97	11.16	4.36	6.68	0	0
+TR1	TR1.14	24/10/16	265	7	positivo	negativo	negativo	positivo	NO	290	0	0	760	0	0	0	0	1680	0	4	0.06	1.32	0	0	0.98	0.87	2.71	0	0.75	0.13	0	0.25	8.06	3.87	10.97	0	0
+TR1	TR1.15	05/12/16	307	7	positivo	negativo	negativo	positivo	NO	0	0	0	0	0	0	0	0	2400	0	2	0.13	1.28	0.17	0	0	9.25	5.52	0	9.82	1.67	2.67	1.89	16.83	7.45	13.6	21.5	0
+TR1	TR1.16	16/01/17	349	7	positivo	negativo	negativo	positivo	NO	0	0	0	120	0	0	0	0	2820	0	2	0.03	0.81	0	0	0.49	0	1.62	0	0.99	0.26	0	0.25	6.42	1.5	6.04	0	0
+TR2	TR2.0	14/03/16	-1	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.1	30/03/16	15	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.2	18/04/16	34	6	positivo	positivo	positivo	negativo	NO	0	0	260	0	0	0	0	0	0	0	2																	
+TR2	TR2.3	27/04/16	43	6	positivo	positivo	positivo	negativo	NO	0	0	0	380	0	0	0	0	0	0	2																	
+TR2	TR2.4	11/05/16	57	6	positivo	positivo	positivo	negativo	NO	0	0	0	350	0	0	0	0	0	0	2																	
+TR2	TR2.5	30/05/16	76	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.6	17/06/16	94	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.7	20/07/16	127	6	positivo	positivo	positivo	negativo	NO	0	4120	0	0	0	0	0	0	0	0	2																	
+TR2	TR2.8	22/08/16	160	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.9	21/09/16	190	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.10	28/11/16	258	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.11	09/01/17	300	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.12	13/02/17	335	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.13	13/03/17	363	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR2	TR2.14	10/04/17	391	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR4	TR4.0	18/03/16	-1	17	Sin dato	positivo	Sin dato	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.07	0.67	0.02	0.36	25.55	0	40.65	2.78	0	0.11	0.53	0.62	18.97	28.66	14.66	0	0
+TR4	TR4.1	31/03/16	12	17	Sin dato	positivo	Sin dato	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.09	0	0.06	0	0.09	0	20.9	0	0	0.01	0.17	0	4.38	5.45	2.83	9.41	0
+TR4	TR4.2	15/04/16	27	17	Sin dato	positivo	Sin dato	positivo	SI	0	2520	0	0	0	0	15120	0	0	0	1	0.16	3.43	0.1	1.14	8.77	2.02	76	5.22	1.1	0.23	0.71	0.54	55.13	14.14	19.28	9.61	0
+TR4	TR4.3	29/04/16	41	17	Sin dato	positivo	Sin dato	positivo	SI	0	3780	0	0	0	0	22680	0	0	0	1	0.05	2.17	0.06	0	2.93	0	16.33	8.3	0	0.27	0.53	0.62	45.72	7.05	26.7	0	0
+TR5	TR5.0	09/04/16	0	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	620	0	0	0	0	0	0	2	0.02	1.01	0.13	0	0.15	0	1.6	0	0	0.06	0.35	0.04	5.98	4.78	4.34	0	0
+TR5	TR5.1	25/04/16	16	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0.19	0	0	0.69	0	2.5	0	0	0.06	0	0	4.46	1.72	0.96	0	0
+TR5	TR5.2	11/05/16	32	7	Sin dato	Sin dato	positivo	positivo	SI	0	650	0	0	0	0	0	0	0	0	1	0.03	1.18	0.24	0.75	0.67	2.02	2.6	0.01	1.34	0.34	1.06	0.7	4.69	2.01	3.94	0	0
+TR5	TR5.3	25/05/16	46	7	Sin dato	Sin dato	positivo	positivo	SI	0	0	0	0	0	0	0	0	0	0	5																	
+TR5	TR5.4	08/06/16	60	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0.84	0.06	0	0.8	0	3.61	0.08	0.02	0.06	1.41	0.86	21.1	5.83	10.49	0	0
+TR5	TR5.5	22/06/16	74	7	Sin dato	Sin dato	positivo	positivo	NO	0	210	0	0	0	0	0	0	0	0	2																	
+TR5	TR5.6	06/07/16	88	7	Sin dato	Sin dato	positivo	positivo	NO	0	280	0	410	0	1680	0	0	0	0	4	0.22	0.67	0	0	1.37	1.88	3.88	0.73	0	0.15	0.88	0.13	17.31	13	9.66	0	0
+TR5	TR5.7	10/08/16	123	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	3660	0	0	0	0	2																	
+TR5	TR5.8	05/09/16	149	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.18	1.51	0.02	0	1.24	0	3.48	0	0.27	0.01	0.44	0.13	8.65	22.11	14.66	0	0
+TR5	TR5.9	05/10/16	179	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR5	TR5.10	31/10/16	205	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.22	0	0	0	3	3.35	0	0	0	1.05	1.37	0.97	10.38	7.16	12.88	0	0
+TR5	TR5.11	07/12/16	242	7	Sin dato	Sin dato	positivo	positivo	NO	0	260	0	0	0	0	0	0	0	0	2	0.13	1.58	1.35	0	0	14.53	7.91	0	32.86	1.5	3.46	2.16	12.89	3.96	11.45	0	0
+TR5	TR5.12	18/01/17	284	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	2040	0	0	0	0	2	0.38	0	0	0	0	3.35	0	0	0	0.31	1.89	0.6	8.4	4.12	10	0	0
+TR5	TR5.13	01/02/17	298	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR5	TR5.14	08/03/17	333	7	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.38	0	0	0	0	6.68	1.74	0	0	0.95	2.15	0.78	10.38	6.35	11.45	0	0
+TR5	TR5.15	19/04/17	375	7	Sin dato	Sin dato	positivo	positivo	NO	430	0	0	0	0	0	0	0	0	0	2	0.02	0	0	0	0	3.35	0	0	0	0.75	1.37	1.7	6.1	0	5.93	0	0
+TR6	TR6.0	09/04/16	0	14	Sin dato	Sin dato	positivo	negativo	NO	400	0	0	620	0	0	0	0	0	0	4	0	0.15	0	0	0	0	2.2	0	0	0	0.17	0	6.95	7.54	2.78	0	0
+TR6	TR6.1	25/04/16	16	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0.81	0	0	0.1	0	4.14	0	0.5	0	0	0	7.95	11.42	6.71	0	0
+TR6	TR6.2	11/05/16	32	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.05	0	0	0	1.68	0	1.2	0	0	0.06	0	0	21.28	2.01	1.55	0	0
+TR6	TR6.3	25/05/16	46	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	240	0	0	0	0	0	0	2	0	0.58	0.06	0	0.28	0.45	2.14	0	0.47	0.19	0.17	0	11.87	1.55	1.74	0	0
+TR6	TR6.4	08/06/16	60	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	7380	0	0	0	0	2	0	0.84	0.3	0.95	0.54	2.02	1.87	0	2.72	0.52	0.79	0.62	10.63	1.64	2.73	0	0
+TR6	TR6.4.1	15/06/16	67	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR6	TR6.5	22/06/16	74	14	Sin dato	Sin dato	positivo	negativo	NO	0	350	0	0	0	0	0	0	0	0	2	0	0	0	0	0.09	0	1.07	0	0	0	0	0	17.46	2.44	1.74	0	0
+TR6	TR6.6	06/07/16	88	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	1920	0	0	2	0	0	0	0	4.33	0	0.74	0	0	0.11	0.57	0.13	26.71	2.3	2.43	0	0
+TR6	TR6.7	19/08/16	132	14	Sin dato	Sin dato	positivo	negativo	NO	250	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0.41	0.25	0.47	0	0	0.06	0	0	5.59	0.81	0.96	0	0
+TR6	TR6.8	31/08/16	144	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	9.67	3.64	0.51	2.24	1.18	0.25	4.56	0	0.84	0.3	10.54	2.05	20.67	5.77	5.56	0	0
+TR6	TR6.9	03/10/16	177	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	1320	0	111840	0	0	4	0	0	0	0	0	0	0.61	0	0	0.23	0	0	8.74	0.48	0.77	0	0
+TR6	TR6.10	31/10/16	205	14	Sin dato	Sin dato	positivo	negativo	NO	0	4010	0	0	0	2580	0	0	0	0	4	0.11	1.81	0.16	0	1.11	1.35	1.44	0	0.75	0.68	0	0.58	10.22	1.59	9.35	0	0
+TR6	TR6.11	06/12/16	241	14	Sin dato	Sin dato	positivo	negativo	NO	0	1130	0	0	0	0	0	0	0	0	2	0.13	5.31	1.01	0	17.06	17.28	24.78	1.9	34.32	2	7.27	3.36	10.11	5.22	9.63	137.55	0
+TR6	TR6.12	12/01/17	278	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	1560	0	2	0.45	37.77	4.25	0	8.99	47.47	47.97	17.53	154.24	6.25	29.5	8.83	20.52	16.73	31.75	211.31	7.32
+TR6	TR6.13	01/02/17	298	14	Sin dato	Sin dato	positivo	negativo	NO	0	190	0	0	0	2340	0	0	0	0	4	0.24	2.29	0.29	0	0.76	3	2.16	0	1.87	0.37	0	0.99	5.74	4.03	10.33	0	0
+TR6	TR6.14	14/03/17	339	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	124860	0	0	2	0	2.76	0.38	0.5	0.76	4.78	3.96	0	2.68	0.48	0.51	1.19	2.19	4.44	9.35	0	0
+TR6	TR6.15	12/04/17	368	14	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.0	14/04/16	0	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.1	25/04/16	11	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	1320	0	2	0	0	0	0	0	2.39	0	0	0	2	0.34	0	1.85	9.08	4.41	0	0
+TR7	TR7.2	10/05/16	26	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	118560	0	0	2																	
+TR7	TR7.3	25/05/16	41	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	4560	0	0	0	0	2	0.02	0	0	0	0	4.25	0	0	0	0.54	0.6	0.04	1.85	0	5.36	0	0
+TR7	TR7.4	15/06/16	62	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.5	29/06/16	76	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.6	13/07/16	90	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.7	16/08/16	124	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.8	14/09/16	153	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.9	12/10/16	181	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.10	14/11/16	214	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.11	12/12/16	242	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.12	11/01/17	272	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	4680	0	2	0.45	11.38	2.29	0	0	21.9	20.42	7.78	73.75	4.32	9.92	5.82	18.43	7.52	21.67	153.01	2.62
+TR7	TR7.13	13/02/17	305	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	12900	0	6																	
+TR7	TR7.14	22/03/17	342	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR7	TR7.15	19/04/17	370	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR8	TR8.0	14/04/16	0	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0	1.18	0.1	0	0.73	0	1.8	0	0.47	0.15	0.35	0.13	7.85	2.44	5.76	0	0
+TR8	TR8.1	25/04/16	13	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR8	TR8.2	11/05/16	27	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0.35	0	0.34	0	0	0	0	0	14.65	1.2	1.64	0	0
+TR8	TR8.3	23/05/16	39	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR8	TR8.4	13/06/16	60	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0.32	0	0	0.28	0	0.8	0	0	0.15	0	0	10.29	1.67	2.24	0	0
+TR8	TR8.5	27/06/16	74	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0.15	0	1.6	0	0	0.06	0	0	14.54	2.63	3.13	0	0
+TR8	TR8.6	11/07/16	88	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	1980	0	0	1500	0	4	0.04	0	0	0	0.09	0	1.14	0	0	0	0	0	14.57	1.42	1.74	0	0
+TR8	TR8.7	17/08/16	125	15	Sin dato	Sin dato	positivo	negativo	NO	0	190	0	0	0	0	0	0	0	0	2	0	0	0	0	0.57	0	0.8	0	0	0	0	0	7.25	1.83	2.73	0	0
+TR8	TR8.8	14/09/16	153	15	Sin dato	Sin dato	positivo	negativo	SI	0	0	0	0	0	0	0	0	0	0	5	0	0	0.04	0	0.51	0	0.87	0	0.27	0.21	0	0.17	7.89	1.61	2.63	0	0
+TR8	TR8.9	17/10/16	186	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.07	0	0	0	0.15	0	0.54	0	0	0.06	0	0	6.98	1.95	2.53	0	0
+TR8	TR8.10	07/11/16	207	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	23160	0	2																	
+TR8	TR8.11	09/01/17	270	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR8	TR8.12	13/02/17	305	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR8	TR8.13	17/03/17	337	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR8	TR8.14	25/04/17	376	15	Sin dato	Sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.0	26/04/16	0	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.1	11/05/16	15	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.2	26/05/16	30	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.4	01/07/16	66	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.5	13/07/16	78	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.6	03/08/16	90	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.7	22/08/16	118	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.8	31/10/16	188	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.9	30/11/16	218	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.10	19/12/16	237	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.11	18/01/17	267	17	positivo	positivo	positivo	positivo	NO	0	0	0	260	0	0	0	0	0	0	2																	
+TR9	TR9.12	15/02/17	295	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.13	22/03/17	330	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.14	19/04/17	358	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR9	TR9.15	19/05/17	388	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.0	16/05/16	0	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.1	30/05/16	14	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.2	20/06/16	35	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.3	27/06/16	42	16	positivo	positivo	positivo	positivo	NO	0	0	0	260	0	0	0	0	0	0	2	0.13	4.18	1.66	0	0	16.68	12.88	1.19	35.75	3.5	3.19	2.9	15.79	4.2	9.63	48.96	0
+TR10	TR10.4	11/07/16	56	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	3.89	0	0	0	8.9	0	0	28.34	2.92	3.98	2.62	17.04	4.04	8.53	0	0
+TR10	TR10.5	27/07/16	72	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0	0	0	0	6.68	0	0	9.82	1.67	2.93	0.97	13.36	3.47	7.8	0	0
+TR10	TR10.6	10/08/16	86	16	positivo	positivo	positivo	positivo	NO	260	0	0	2560	0	5880	0	0	0	0	4	0.26	1.28	0	0	0	11.64	4.67	0	39.92	2.31	4.24	2.26	7.14	2.43	8.9	39.47	0
+TR10	TR10.7	19/09/16	126	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.8	17/10/16	154	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.9	14/11/16	182	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.10	12/12/16	210	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.11	12/01/17	241	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR10	TR10.12	13/02/17	273	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.13	14.09	0	0	0	8.18	25.63	0	7.19	1.32	2.67	0.97	31.98	12.13	11.81	0	0
+TR10	TR10.13	29/03/17	317	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	1800	0	0	3600	0	4	0.3	4.75	1.41	0	0	17.87	5.52	2.5	37.16	2	5.03	2.44	13.12	3.21	9.27	48.96	0
+TR10	TR10.14	17/05/17	366	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.0	16/05/16	0	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.1	30/05/16	14	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.2	15/06/16	30	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.3	29/06/16	44	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.4	18/07/16	63	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.5	25/07/16	70	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.6	08/08/16	84	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.7	21/09/16	128	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.8	17/10/16	154	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.9	10/11/16	178	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.10	26/12/16	224	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.11	16/01/17	245	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.12	27/02/17	287	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.13	27/03/17	315	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR11	TR11.14	03/05/17	352	17	Sin dato	Sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.0	31/05/16	0	10	positivo	positivo	positivo	positivo	NO	0	250	0	0	0	0	0	0	0	0	2																	
+TR12	TR12.1	13/06/16	13	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.2	27/06/16	27	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.3	11/07/16	41	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.4	25/07/16	55	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.5	08/08/16	69	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.6	22/08/16	83	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.7	03/10/16	125	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.8	17/10/16	153	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.9	18/11/16	171	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.10	16/01/17	230	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.11	06/03/17	279	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR12	TR12.12	08/05/17	342	10	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR13	TR13.0	07/06/16	0	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0.67	0.12	0	0.32	1.88	6.45	0	3.01	0.15	0.17	0.3	6.37	5.89	5.76	0	0
+TR13	TR13.1	21/06/16	14	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.15	0.32	0	0	0.99	0	2.8	1.37	19.49	0.06	0.71	0	7.53	19.59	1.35	0	0
+TR13	TR13.2	06/07/16	29	17	positivo	positivo	positivo	positivo	SI	820	0	430	1180	0	0	0	0	0	0	3	0	0.5	0.08	0.36	0.51	0	3.48	0	6.55	0.3	0.44	0.34	7.53	4.56	2.63	0	0
+TR13	TR13.3	20/07/16	43	17	positivo	positivo	positivo	positivo	SI	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0.09	0	2	0	5.76	0.15	0	0	5.3	2.75	1.74	0	0
+TR13	TR13.4	15/08/16	69	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR13	TR13.5	22/08/16	76	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0.15	0	1.73	0	3.01	0.06	0	0	3.63	3.05	2.14	0	0
+TR13	TR13.6	07/09/16	92	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0.5	0.02	0.36	0.35	0.97	2.54	0	3.72	0.38	0.17	0.46	3.52	3.74	3.53	0	0
+TR13	TR13.7	03/10/16	118	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0.09	0	1.47	0	2.72	0.15	0	0	2.61	2.69	2.53	0	0
+TR13	TR13.8	07/11/16	153	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0.67	0	3.58	0.01	0	0	3.96	2.75	1.16	0	0
+TR13	TR13.9	05/12/16	181	17	positivo	positivo	positivo	positivo	NO	270	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0.02	0	0.67	0	0.84	0.06	0	0	2.73	1.39	1.74	0	0
+TR13	TR13.10	02/01/17	209	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR13	TR13.11	01/02/17	239	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR13	TR13.12	01/03/17	267	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR13	TR13.13	17/04/17	314	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR13	TR13.14	08/05/17	335	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR13	TR13.15	07/06/17	365	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR14	TR14.0	14/06/16	0	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0.73	0	0.28	0	0	0	0	0	4.06	4.48	3.94	0	0
+TR14	TR14.1	04/07/16	20	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR14	TR14.2	11/07/16	27	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0.32	0	0	0.02	0	0.41	0	0	0.06	0	0.3	3.19	1.17	1.64	0	0
+TR14	TR14.3	25/07/16	41	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR14	TR14.4	08/08/16	55	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.63	0	0.1	0.36	0.35	0	0.67	0	0.84	0.15	0.53	0.3	1.74	2.84	2.34	0	0
+TR14	TR14.5	22/08/16	69	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.09	0	0.06	0	0.54	0	1.07	0	0	0.15	0	0	2.73	2.2	2.34	0	0
+TR14	TR14.6	14/09/16	92	16	positivo	positivo	positivo	positivo	SI	0	0	0	0	0	0	0	0	0	0	5	0.08	0	0.04	0.15	2	0	1.27	0	0	0.19	0.35	0	2.43	2.32	3.63	0	0
+TR14	TR14.7	10/10/16	118	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0.32	0	0	0.35	0	1.53	0	0	0.06	0	0	1.87	3.65	3.74	0	0
+TR14	TR14.8	07/11/16	146	16	positivo	positivo	positivo	positivo	NO	0	2740	0	0	0	0	0	0	0	0	2	0	0.23	0.06	0.36	0.61	0.97	1.33	0.03	1.18	0.38	0.17	0.62	1.87	1.76	3.13	0	0
+TR14	TR14.9	07/12/16	176	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0.05	0	0.36	5.29	0	1.6	0	0	0.23	0.17	0.04	1.61	1.14	2.53	0	0
+TR14	TR14.10	23/01/17	223	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	1980	0	0	0	0	2																	
+TR14	TR14.11	22/02/17	253	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR14	TR14.12	22/03/17	281	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR14	TR14.13	03/05/17	323	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR14	TR14.14	14/06/17	365	16	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR15	TR15.0	16/06/16	0	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	1.01	0.06	1.14	0.67	0.63	1.87	0.23	1.18	0.23	0.17	0.54	7.02	0.78	5.96	0	0
+TR15	TR15.1	29/06/16	13	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	0	0	5160	0	0	0	0	2																	
+TR15	TR15.2	11/07/16	25	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	3580	0	0	0	0	0	0	0	2	0.02	0	0	0	0.09	0	1.6	0	0	0.38	0	0	7.76	1.76	2.73	0	0
+TR15	TR15.3	01/08/16	46	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	930	0	0	0	0	0	0	2	0	0.5	0	0	0.09	0.81	1.8	0	0.47	0.34	0.08	0.46	8.03	2.93	3.53	0	0
+TR15	TR15.4	22/08/16	67	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	0	0	0	0	0	1920	0	2	0	0.15	0	0	0.09	0	1.6	0	0.27	0.3	0	0	5.44	1.42	3.33	0	0
+TR15	TR15.5	31/08/16	76	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	0	0	1380	0	0	2460	0	4	0	0.32	0	0	0.15	0	1.4	0	0.27	0.38	0	0.3	7.3	2.69	4.14	0	0
+TR15	TR15.6	19/09/16	95	14	Sin dato	Sin dato	Sin dato	positivo	SI	0	0	0	0	0	0	0	3675240	0	0	1	0	1.01	0	0	0.35	0	4.62	0	0.27	0.49	0.26	0.38	11.31	3.09	7.4	0	0
+TR15	TR15.7	10/10/16	116	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	0	0	0	0	1920	1920	0	4	0	0.67	0.02	0	0.15	0.45	4.08	0.31	1.01	0.77	0.44	0.3	14.01	3.46	5.96	0	0
+TR15	TR15.8	14/11/16	151	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	82470	0	0	0	0	14160	0	2	0.03	1.55	0	0	0.67	0	4.76	12.31	0.66	0.7	0.3	0.86	27.38	2.46	9.82	0	0
+TR15	TR15.9	21/12/16	188	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	1100	0	1560	0	2126940	828360	0	4	0.16	2.76	0.26	0	0.76	3.74	3.42	2.88	5.33	2.27	0.9	1.29	17.27	2.42	9.02	18.87	0
+TR15	TR15.10	16/01/17	214	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	1300	0	0	0	0	0	0	2	0.13	0.04	0	0	0	10.29	0.43	0	21.81	2.47	3.46	1.15	8.09	0.73	6.12	25.41	0
+TR15	TR15.11	15/02/17	244	14	Sin dato	Sin dato	Sin dato	positivo	SI	0	0	0	600	0	0	0	0	0	0	1	0.03	2.29	0.07	0.5	0.81	2.22	5.02	0.03	1.87	0.68	1.6	0.99	4.07	2.42	10	0	0
+TR15	TR15.12	27/03/17	284	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	1130	0	0	0	0	0	0	2	0.34	0	0	0	0	2.88	0	0	0	1.05	1.89	0.41	5.15	0.48	5.17	0	0
+TR15	TR15.13	27/04/17	315	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	840	0	0	0	0	0	0	2	0.3	0	0	0	0	6.29	0	0	0	1.32	1.63	1.15	0.23	1.78	5.55	0	0
+TR15	TR15.14	01/06/17	350	14	Sin dato	Sin dato	Sin dato	positivo	NO	0	0	0	1030	0	0	0	0	0	0	2	0.22	0	0	0	0	2.39	0	0	0	1.14	1.11	0.6	2.52	3.21	5.17	0	0
+TR16	TR16.0	26/07/16	0	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.12	4.7	0.55	1.26	2.29	5.76	5.73	1.44	3.85	0.68	5.32	1.79	7.09	4.36	19.19	6.97	0
+TR16	TR16.1	08/08/16	13	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.2	22/08/16	27	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.15	1.32	0	0	0.76	1.35	3.96	0	0.5	0.13	0.9	0.99	11.84	2.64	6.21	0	0
+TR16	TR16.3	05/09/16	41	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.4	26/09/16	62	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.03	0.55	0	0	0.67	0	0.89	0	0.75	0.13	0	0	9.41	1.74	5.53	0	0
+TR16	TR16.5	10/10/16	76	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.6	24/10/16	90	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.7	12/12/16	139	14	positivo	positivo	positivo	positivo	NO	0	0	7170	0	0	0	0	37860	0	0	2	0.06	2.87	0	0	4.23	0.87	2.71	1.44	2.48	0.37	0.03	0.79	20.35	5.93	19.19	0	0
+TR16	TR16.8	04/01/17	162	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.9	03/02/17	192	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.05	1.44	0.04	0	1.37	1.8	4.31	0	0.5	0.68	0.03	0.36	11.45	3.54	11.3	0	0
+TR16	TR16.10	22/02/17	211	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.11	10/04/17	258	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.12	10/05/17	288	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.13	09/06/17	318	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR16	TR16.14	03/07/17	342	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR17	TR17.0	28/07/16	0	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.06	4.36	0.29	4.97	2.21	4.44	5.55	0	5.51	0.48	1.26	2.37	8.89	4.84	13.86	1.5	0
+TR17	TR17.1	08/08/16	11	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	290	0	0	0	0	0	0	2	3.64	3.68	0.29	0	2.09	0.3	62.38	0.24	8.32	0.13	5.18	0.99	9	26.49	7.38	9.47	0
+TR17	TR17.2	22/08/16	25	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.03	1.44	0	0	0.49	0.87	1.98	0	2.28	0	0	0.14	9.36	2.06	3.12	0	0
+TR17	TR17.3	14/09/16	48	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	1620	0	0	0	0	2	0	1.81	0	0	1.37	1.8	1.98	0	1.87	0	0	0.25	4.31	3.37	5.53	0	0
+TR17	TR17.4	28/09/16	62	15	sin dato	sin dato	positivo	positivo	NO	0	1170	0	0	0	0	0	88020	0	0	4	0.3	3.22	0.19	0.5	2.17	5.11	4.31	2.21	6.4	0.58	0.9	1.59	13.32	22.72	17.63	0	0
+TR17	TR17.5	12/10/16	76	15	sin dato	sin dato	positivo	positivo	NO	0	3730	0	0	0	0	2040	0	0	0	2																	
+TR17	TR17.6	26/10/16	90	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	1620	0	0	0	0	2																	
+TR17	TR17.7	23/11/16	118	15	sin dato	sin dato	positivo	positivo	NO	270	0	0	220	0	0	0	0	0	0	4	0.06	0.81	0	0	3.35	0.87	4.14	0	2.28	0.26	0	0.36	8.48	2.24	7.38	0	0
+TR17	TR17.8	21/12/16	146	15	sin dato	sin dato	positivo	positivo	NO	390	0	0	340	0	0	0	0	0	0	4	0.03	1.81	0	0	3.19	0.3	3.06	0	2.68	0.48	0	1.09	9.1	2.69	6.54	0	0
+TR17	TR17.9	18/01/17	174	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.11	1.56	0	0	1.88	0.3	3.69	2.4	4.59	0.58	0	0.58	4.44	3.91	9.68	0	0
+TR17	TR17.10	15/02/17	202	15	sin dato	sin dato	positivo	positivo	NO	0	0	850	0	0	0	0	8160	0	0	2	0.22	2.76	0.11	0	4.31	0.3	4.85	5.81	3.85	0.48	0.03	0.68	14.25	2.95	19.03	0	0
+TR17	TR17.11	29/03/17	244	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR17	TR17.12	26/04/17	272	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	2																	
+TR17	TR17.13	17/05/17	293	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	2																	
+TR17	TR17.14	21/06/17	328	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR17	TR17.15	19/07/17	356	15	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.0	28/07/16	0	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.1	08/08/16	13	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.2	22/08/16	25	13	sin dato	sin dato	positivo	positivo	NO	0	230	0	0	0	0	0	0	0	0	2																	
+TR18	TR18.3	21/09/16	55	13	sin dato	sin dato	positivo	positivo	NO	0	380	0	0	0	0	0	0	0	0	2																	
+TR18	TR18.4	28/09/16	62	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.5	12/10/16	76	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.6	21/10/16	90	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.7	18/11/16	113	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.8	19/12/16	144	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.9	23/01/17	179	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.10	20/02/17	207	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.11	17/03/17	232	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.12	10/04/17	256	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.13	10/05/17	286	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.14	12/06/17	319	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR18	TR18.15	12/07/17	349	13	sin dato	sin dato	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.0	16/08/16	0	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.1	31/08/16	15	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.2	14/09/16	29	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.3	28/09/16	43	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.4	10/10/16	55	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.5	24/10/16	69	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.6	18/11/16	94	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.7	12/12/16	118	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.8	09/01/17	146	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.9	03/02/17	171	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.10	27/02/17	195	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.11	05/04/17	232	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.12	03/05/17	260	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.13	07/06/17	295	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.14	10/07/17	328	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR19	TR19.15	31/07/17	349	8	positivo	positivo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.0	18/08/16	0	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.1	31/08/16	13	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.2	12/09/16	25	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.3	26/09/16	39	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.4	10/10/16	53	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.5	26/10/16	69	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.6	14/11/16	88	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.7	14/12/16	118	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.8	11/01/17	146	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.9	20/02/17	186	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.10	27/03/17	221	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.11	24/05/17	279	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.12	05/07/17	321	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.13	09/08/17	356	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR20	TR20.14	11/09/17	386	17	sin dato	sin dato	sin dato	negativo	NO	0	0	0	320	0	0	0	0	0	0	2																	
+TR21	TR21.0	27/09/16	0	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.1	10/10/16	13	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.2	24/10/16	27	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.3	07/11/16	41	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.4	23/11/16	57	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.5	19/12/16	83	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.6	28/12/16	92	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.7	25/01/17	120	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.8	06/03/17	160	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.9	22/03/17	176	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.10	19/04/17	204	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.11	17/05/17	232	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.12	05/07/17	281	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR21	TR21.13	02/10/17	370	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.0	08/11/16	0	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.1	18/11/16	10	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.2	05/12/16	27	17	positivo	positivo	positivo	positivo	NO	0	740	0	0	0	0	1260	0	0	0	2	0	0.55	0	0	1.07	0	1.07	3.74	0	0	0	0.14	29.69	3.12	10	0	0
+TR22	TR22.3	21/12/16	43	17	positivo	positivo	positivo	positivo	NO	0	3610	0	0	0	0	18120	0	0	0	2	0.12	4.81	0.43	3.2	2.29	5.11	4.31	7.86	4.41	1.07	1.6	2.85	41.61	7.21	21.97	8.24	0
+TR22	TR22.4	02/01/17	55	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.5	16/01/17	69	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.6	13/02/17	97	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.7	15/03/17	127	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.8	10/04/17	153	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.9	24/05/17	197	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.10	19/06/17	223	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.11	25/07/17	259	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.12	04/09/17	300	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR22	TR22.13	11/10/17	337	17	positivo	positivo	positivo	positivo	NO	0	0	0	330	0	0	0	0	0	0	2																	
+TR22	TR22.14	08/11/17	365	17	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.0	29/11/16	0	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.1	12/12/16	13	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.2	21/12/16	22	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.3	09/01/17	41	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.4	23/01/17	55	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.5	13/02/17	76	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.6	08/03/17	99	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.7	03/04/17	125	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.8	08/05/17	160	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.9	07/06/17	190	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.10	05/07/17	218	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.11	26/07/17	239	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.12	28/08/17	272	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.13	13/09/17	288	6	positivo	positivo	negativo	positivo	NO	0	0	0	4410	0	0	0	0	0	0	2																	
+TR23	TR23.14	25/10/17	330	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TR23	TR23.15	29/11/17	365	6	positivo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.0	17/02/16	-1	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.1	02/03/16	14	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.2	02/03/16	14	6	positivo	positivo	positivo	positivo	NO	0	0	330	0	0	0	0	0	0	0	2																	
+TH3	TH3.3	09/03/16	21	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.4	16/03/16	28	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.5	30/03/16	42	6	positivo	positivo	positivo	positivo	NO	0	670	0	0	0	0	0	0	0	0	2																	
+TH3	TH3.6	20/04/16	63	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.7	27/04/16	70	6	positivo	positivo	positivo	positivo	NO	0	270	0	0	0	0	0	0	0	0	2																	
+TH3	TH3.8	18/05/16	91	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.9	15/06/16	119	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.10	20/07/16	154	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.11	17/08/16	182	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.12	07/09/16	203	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.13	12/10/16	238	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.14	09/11/16	266	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.15	14/12/16	301	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.16	11/01/17	329	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH3	TH3.17	08/02/17	357	6	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.0	03/03/16	-1	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.1	16/03/16	12	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.2	28/03/16	24	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.3	13/04/16	40	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.4	27/04/16	54	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.5	18/05/16	75	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	260100	0	0	0	0	2																	
+TH4	TH4.6	01/06/16	89	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.7	29/06/16	117	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.8	27/07/16	145	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.9	31/08/16	180	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.10	21/09/16	201	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.11	26/10/16	236	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.12	23/11/16	264	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.13	14/12/16	285	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.14	25/01/17	327	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH4	TH4.15	22/02/17	355	14	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.0	13/04/16	0	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.1	27/04/16	14	8	positivo	positivo	positivo	positivo	NO	0	0	460	0	0	1740	0	1980	0	0	4																	
+TH5	TH5.2	11/05/16	28	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.3	25/05/16	42	8	positivo	positivo	positivo	positivo	NO	0	410	0	0	0	0	0	0	0	0	2																	
+TH5	TH5.4	15/06/16	63	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.5	29/06/16	77	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.6	11/07/16	89	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.7	10/08/16	119	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.8	07/09/16	147	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.9	17/10/16	187	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.10	09/11/16	210	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.11	14/12/16	245	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.12	11/01/17	273	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.13	08/02/17	301	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.14	08/03/17	329	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH5	TH5.15	05/04/17	357	8	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.0	16/05/16	0	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.1	01/06/16	16	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.2	15/06/16	30	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.3	29/06/16	44	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.4	13/07/16	58	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.5	29/07/16	74	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.6	12/08/16	88	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.7	12/09/16	119	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH6	TH6.8	10/10/16	147	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0	0	0	12.5	1.3	7.14	0	0	0	0.85	0.04	6.1	14.03	6.31	0	0
+TH6	TH6.9	09/11/16	177	6	positivo	positivo	positivo	negativo	NO	0	0	0	230	0	0	0	0	0	0	2	0.3	0	0	0	12.8	2.39	7.91	0	0	0.31	1.11	0.23	11.67	5.68	4.22	0	0
+TH6	TH6.10	14/12/16	212	6	positivo	positivo	positivo	negativo	NO	0	0	0	360	0	0	0	0	0	0	2	0.22	0	0	0	0	3.35	2.81	0	0	0.54	1.63	0.41	12.65	5.91	5.93	0	0
+TH6	TH6.11	11/01/17	240	6	positivo	positivo	positivo	negativo	NO	0	0	0	180	0	0	0	0	1440	0	2	0	0	0	0	4.07	0.66	3.77	0	0	0	1.11	0.04	11.42	7.09	7.24	0	0
+TH6	TH6.12	08/02/17	268	6	positivo	positivo	positivo	negativo	NO	0	0	0	370	0	0	0	0	0	0	2	0	0	0	0	3.73	5.09	10.82	0	0	0.85	1.37	0.6	7.46	3.47	8.16	0	0
+TH6	TH6.13	08/03/17	296	6	positivo	positivo	positivo	negativo	NO	0	0	0	460	0	0	0	0	0	0	2	0	0	0	0	0	1.3	5.1	0	0	0.54	1.11	0.78	14.04	6.06	10.36	0	0
+TH6	TH6.14	10/05/17	359	6	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.22	0	0	0	0	8.9	1.74	0	12.16	0.95	2.41	1.34	16	6.65	7.42	0	0
+TH7	TH7.0	28/07/16	0	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH7	TH7.1	12/08/16	15	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH7	TH7.2	24/08/16	27	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH7	TH7.3	07/09/16	41	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH7	TH7.4	21/09/16	55	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0	0	0	0	5.9	0	0	0	0.75	1.89	1.34	16	5.61	6.31	0	0
+TH7	TH7.5	05/10/16	69	4	positivo	positivo	positivo	positivo	NO	220	0	0	180	0	0	0	0	0	0	4	0.53	0	0	0	0	8.18	11.17	1.19	16.31	1.14	3.19	0.88	9.84	4.68	6.68	0	0
+TH7	TH7.6	26/10/16	90	4	positivo	positivo	positivo	positivo	NO	150	0	0	120	0	0	0	0	0	0	4	0.26	0	0	0	0	2.39	0	0	0	0.31	0.85	0.13	7.62	2.16	4.02	0	0
+TH7	TH7.7	23/11/16	118	4	positivo	positivo	positivo	positivo	NO	310	0	0	300	0	0	0	0	0	0	4	0.13	0	0	0	0	3.35	0	0	0	0.65	1.11	0.23	0	0.2	3.64	0	0
+TH7	TH7.8	14/12/16	139	4	positivo	positivo	positivo	positivo	NO	150	0	0	0	0	0	0	0	0	0	2	0.53	0	0	0	0	5.09	0	0	0	0.75	2.41	0.78	2.52	1.58	4.79	0	0
+TH7	TH7.9	25/01/17	181	4	positivo	positivo	positivo	positivo	NO	260	0	0	0	0	0	0	0	0	0	2	1.81	5.87	0	0	0	3.81	21.31	8.31	0	0.54	2.41	1.15	16	10.38	9.63	0	0
+TH7	TH7.10	22/02/17	209	4	positivo	positivo	positivo	positivo	NO	380	0	0	0	0	0	0	0	0	0	2	0.26	0	0	0	0	2.39	0	0	0	0.31	1.11	0.41	5.73	2.34	4.41	0	0
+TH7	TH7.11	22/03/17	237	4	positivo	positivo	positivo	positivo	NO	240	0	0	120	0	0	0	0	0	0	4	0.38	0	0	0	0	3.35	0	0	0	0.65	1.37	0.6	3.09	2.87	5.17	0	0
+TH7	TH7.12	19/04/17	265	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	5.9	0	0	0	0.95	1.63	0.78	14.71	3.88	6.68	0	0
+TH7	TH7.13	25/05/17	301	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH7	TH7.14	21/06/17	328	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH7	TH7.15	25/07/17	362	4	positivo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.0	17/08/16	0	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.1	31/08/16	14	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.2	13/09/16	27	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.3	30/09/16	44	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.4	12/10/16	56	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.5	26/10/16	70	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.6	30/11/16	105	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.7	12/12/16	117	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.8	11/01/17	147	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.9	13/02/17	180	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.10	15/03/17	210	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.11	05/04/17	231	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.12	05/05/17	261	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.13	07/06/17	294	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.14	05/07/17	322	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH8	TH8.15	09/08/17	357	6	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.0	13/12/16	0	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.1	28/12/16	15	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.2	11/01/17	29	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.3	25/01/17	43	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.4	08/02/17	57	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.5	22/02/17	71	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.6	15/03/17	92	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.7	05/04/17	113	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH9	TH9.8	10/05/17	148	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.13	0	0	0	0	1.3	0	0	0	0.75	0.98	0.23	0	1.97	2.45	0	0
+TH9	TH9.9	14/06/17	183	4	positivo	negativo	negativo	negativo	NO	310	0	0	0	0	0	0	0	0	0	2	0.02	0	0	0	0	2.39	0	0	0	0.31	1.37	0.23	3.09	5.15	2.85	0	0
+TH9	TH9.10	19/07/17	218	4	positivo	negativo	negativo	negativo	NO	830	0	0	0	0	0	0	0	0	0	2	0.02	0	0	0	0	3.35	0	0	0	0.75	1.11	0.04	0	2.52	2.85	0	0
+TH9	TH9.11	02/08/17	232	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0	0	0	0	2.39	0	0	0	0.54	1.11	0.6	0	2.52	2.45	0	0
+TH9	TH9.12	06/09/17	267	4	positivo	negativo	negativo	negativo	SI	0	0	0	0	0	0	0	0	0	0	5	0.02	0	0	0	0	2.39	22.77	0	0	0.75	0.85	0.32	0	13.64	5.17	0	0
+TH9	TH9.13	27/09/17	288	4	positivo	negativo	negativo	negativo	NO	380	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1.3	3.77	0	0	0.54	1.11	0.41	0	10.45	5.36	0	0
+TH9	TH9.14	08/11/17	330	4	positivo	negativo	negativo	negativo	NO	0	0	0	280	0	0	0	0	0	0	2	0.02	0	0	0	0	2.88	0	0	0	0.75	0.6	0.69	0	4.99	4.02	0	0
+TH9	TH9.15	06/12/17	358	4	positivo	negativo	negativo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0	0	0	0	3.35	0	0	0	0.75	1.89	0.69	0	17.61	8.53	0	0
+TH10	TH10.0	26/04/17	0	8	positivo	negativo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0.17	0	0	0	4.73	6.29	90.45	0	0	1.32	2.93	0.6	0.97	23.98	5.17	0	0
+TH10	TH10.1	11/05/17	15	8	positivo	negativo	positivo	positivo	SI	0	230	0	0	0	0	1080	0	0	0	1	0.88	0.04	0.17	0	5.04	8.9	55.66	12.08	18.22	1.83	2.93	1.43	3.09	124.25	17.49	0	0
+TH10	TH10.2	29/05/17	33	8	positivo	negativo	positivo	positivo	SI	0	0	0	0	0	0	0	0	0	0	5	0.38	0	0	0	0	7.44	0	0	9.82	1.14	2.67	1.15	4.53	2.7	3.83	0	0
+TH10	TH10.3	07/06/17	42	8	positivo	negativo	positivo	positivo	NO	600	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	1.3	5.52	0	0	0.43	1.37	0.41	10.11	13.77	2.45	0	0
+TH10	TH10.4	21/06/17	56	8	positivo	negativo	positivo	positivo	NO	0	0	0	220	0	0	0	0	0	0	2	0	0	0	0	0	3.35	0	0	0	0.54	1.37	0.41	0.97	4.52	2.65	0	0
+TH10	TH10.5	05/07/17	70	8	positivo	negativo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	1.87	0	0	0	22.17	1.3	28.41	0	0	0.31	4.5	0.04	9.56	22.21	9.63	54.97	0
+TH10	TH10.6	19/07/17	84	8	positivo	negativo	positivo	positivo	NO	250	0	0	0	0	0	0	0	0	0	2	0.13	0	0	0	0	1.3	0	0	0	0	1.11	0.41	1.85	9.49	3.24	0	0
+TH10	TH10.7	18/08/17	114	8	positivo	negativo	positivo	positivo	NO	660	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	5.09	0	0	16.31	1.05	3.19	0.78	3.61	2.16	3.64	0	0
+TH10	TH10.8	13/09/17	140	8	positivo	negativo	positivo	positivo	NO	900	0	0	0	0	0	0	0	0	0	2	0.22	0	0	0	3.9	5.9	99.11	0	3.96	0.75	5.69	1.15	10.64	12.33	5.55	165.93	0
+TH10	TH10.9.1	18/10/17	175	8	positivo	negativo	positivo	positivo	NO	1820	0	0	0	0	0	0	0	0	0	2	0.02	0	0	0	0	2.39	7.53	0	0	0.75	1.37	0.6	0	5.45	4.98	0	0
+TH10	TH10.10	18/11/17	206	8	positivo	negativo	positivo	positivo	NO	1490	0	0	0	0	0	0	0	0	0	2	0.02	0	0	0	0	3.35	16.76	0	0	0.75	1.63	0.6	0	12.59	5.17	0	0
+TH10	TH10.11	13/12/17	231	8	positivo	negativo	positivo	positivo	NO	6010	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0.31	2.41	0.04	4.08	10.18	4.41	0	0
+TH10	TH10.12	24/01/18	273	8	positivo	negativo	positivo	positivo	NO	1120	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2.39	0	0	0	0.31	1.63	0.04	4.95	12.13	5.17	0	0
+TH12	TH12.0	09/06/17	0	4	negativo	positivo	positivo	positivo	NO	0					0	0	0	0	0	6																	
+TH12	TH12.1	23/06/17	14	4	negativo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH12	TH12.2	12/07/17	33	4	negativo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH12	TH12.3	19/07/17	40	4	negativo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH12	TH12.4	24/07/17	45	4	negativo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH12	TH12.5	23/08/17	75	4	negativo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH12	TH12.6	06/09/17	89	4	negativo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH12	TH12.7	11/10/17	124	4	negativo	positivo	positivo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	1.87	0	0	0	0.31	0.85	0.23	0	0	2.05	0	0
+TH12	TH12.8	15/11/17	159	4	negativo	positivo	positivo	positivo	NO	0	0	0	1310	0	0	0	0	0	0	2	0.13	0	0	0	0	0	0	0	0	0.75	1.37	0.78	0	2.16	2.85	0	0
+TH12	TH12.9	06/12/17	180	4	negativo	positivo	positivo	positivo	NO	0	0	0	1400	0	0	0	0	0	0	2	0	0	0	0	0	1.3	0	0	0	0.31	0.34	0.23	3.09	1.07	2.45	0	0
+TH12	TH12.10	10/01/18	215	4	negativo	positivo	positivo	positivo	NO	0	0	0	330	0	0	0	0	0	0	2	0	0	0	0	0	1.3	0	0	0	0.31	1.11	0.78	7.3	4.2	5.17	0	0
+TH13	TH13.0	16/06/17	0	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	5.9	0	0	9.82	0.75	2.41	0.78	3.61	11.19	4.79	0	0
+TH13	TH13.1	30/06/17	14	5	positivo	positivo	positivo	negativo	NO	0	1060	0	0	0	0	0	0	0	0	2	0	0	0	0	0	2.39	0	2.5	0	0.31	0.6	0	4.95	5.61	2.05	0	0
+TH13	TH13.2	12/07/17	26	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	4440	0	0	0	2	0	0	0	0	0	0	0	0	0	0.31	0.6	0.23	13.82	3.38	3.64	0	0
+TH13	TH13.3	26/07/17	40	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	1.3	0	0	0	0	0.6	0.04	11.67	1.97	1.23	0	0
+TH13	TH13.4	09/08/17	54	5	positivo	positivo	positivo	negativo	NO	400	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	3.81	0	0	0	0.31	0.34	0.23	20.52	2.34	2.45	0	0
+TH13	TH13.5	23/08/17	68	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH13	TH13.6	06/09/17	82	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH13	TH13.7	11/10/17	117	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH13	TH13.8	15/11/17	152	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH13	TH13.9	13/12/17	180	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH13	TH13.10	24/01/18	222	5	positivo	positivo	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.0	09/08/17	0	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.1	23/08/17	14	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.2	06/09/17	28	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.3	27/09/17	49	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.4	11/10/17	63	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.5	25/10/17	77	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.6	15/11/17	98	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.7	13/12/17	126	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.8	10/01/18	154	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH14	TH14.9	07/02/18	182	17	negativo	positivo	negativo	positivo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH15	TH15.0	19/08/17	0	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.02	0	0	0	4.24	0	45.51	0	0	0.54	1.63	0	25.24	33.5	8.16	0	0
+TH15	TH15.1	04/09/17	16	1	negativo	sin dato	positivo	negativo	SI	0	500	0	0	0	0	0	0	0	0	1	2.38	0	0	0	82.51	3.35	40.26	26.52	0	0.31	2.93	0.6	33.16	32.73	24.6	0	0
+TH15	TH15.2	20/09/17	32	1	negativo	sin dato	positivo	negativo	SI	0	8530	0	0	0	0	36000	0	0	0	1	0	0	0	0	0	5.9	6.34	4.89	20.05	0.95	1.63	0.69	1.45	2.34	6.68	0	0
+TH15	TH15.3	04/10/17	46	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6	0.6	0	0	0	0	4.25	0	0	25.16	0.54	1.89	0.88	1.85	7.02	3.64	0	0
+TH15	TH15.4	18/10/17	60	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH15	TH15.5	08/11/17	81	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH15	TH15.6	22/11/17	95	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH15	TH15.6.1	06/12/17	109	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH15	TH15.7	10/01/18	144	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
+TH15	TH15.8	07/02/18	172	1	negativo	sin dato	positivo	negativo	NO	0	0	0	0	0	0	0	0	0	0	6																	
