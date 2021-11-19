@@ -1,6 +1,0 @@
-"Virus"	"Total"
-"VEB"	32.9
-"CMV"	18.4
-"HHV6"	9.9
-"HHV7"	38.1
-"VSK"	0
