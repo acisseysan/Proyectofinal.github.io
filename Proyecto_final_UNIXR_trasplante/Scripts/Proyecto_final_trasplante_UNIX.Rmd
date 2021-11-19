@@ -1,0 +1,96 @@
+---
+title: "Proyecto Final Trasplante Análisis UNIX"
+author: "Yessica Sánchez Ponce"
+date: "11/17/2021"
+output: html_document
+---
+## **Análisis de datos UNIX**
+
+### **Exploración de sistema de archivos y archivos**
+
+**1.-**Lo primero es conocer el directorio de ubicación con "pwd". Luego se puede explorar el directorio con "ls" que enlista el contendio del dierctorio, o "ls -F -a" que enlista todos los archivos, incluidos los ocultos. "ls -l -h" muestra más información de los archivos.
+Para moverme entre archivos se usa el comando "cd". Para ir al archivo del proyecto final, se indica la ruta absoluta con el comando "cd".
+
+```{bash}
+pwd
+ls
+ls -F -a
+ls -l -h
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+ls
+```
+
+- Se creó la carapeta PFUnix con el comando "mkdir"
+
+```{bash}
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+mkdir PFUnix
+ls
+```
+
+- Se modificó su nombre con el comando "mv" que permite tanto mover como renombrar.  
+
+```{bash}
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+mv PFUnix PFUnix2
+ls
+```
+
+- Se removió la carpeta con "rm -r"
+
+```{bash}
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+rm -r PFUnix2
+ls
+```
+
+**2.-**Después se analizó el archivo de interés, Data_Trasplante.txt. utilizando los comandos "more", "less" y "cat". Y "wc" para contar lineas palabras y caracteres. Resultando que tiene 495 filas. Finalmente, con "head -n1" se analizaron las variables que componen el archivo.
+
+```{bash}
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+#more Data_Trasplante.txt
+#less Data_Trasplante.txt
+#cat Data_Trasplante.txt
+wc Data_Trasplante.txt
+head -n1 Data_Trasplante.txt
+```
+
+**Exploración de los datos para aalízar aracterísticas clínicas y virales**      
+**1.- ¿Cuál es la lista de pacientes únicos, cuántos son en total, cuántos son renales "TR" y cuántos son hepáticos "TH"?**    
+Primero se selecciona la columna de pacientes, con "cut", luego se elimina el nombre de la columna seleccionandola con un "grep -v" y finalmente se eliminan los pacientes repetidos con "uniq". Para obtener el total, se cuentan las líneas con "wc". Para saber cuántos renales y cuántos hepáticos se seleccionan con "grep" TR y TH respectivamente y se cuentan.
+
+```{bash}
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+cut -f1  Data_Trasplante.txt |grep -v "^Paciente" | uniq
+cut -f1  Data_Trasplante.txt |grep -v "^Paciente" | uniq |wc
+cut -f1  Data_Trasplante.txt |grep "^TR" | uniq | wc
+cut -f1  Data_Trasplante.txt |grep "^TH" | uniq | wc
+```
+
+**Respuesta** 
+En total son 34 pacientes, 22 renales y 12 hepáticos.
+
+**2.- ¿Cuántas muestras se analizaron ene total, si quiero observar solo las muestras del quinto paciente sometido a trasplante hepático (TH5) y guardarlo en el archivo que se llame TH5.txt?**     
+También con "wc" de la columna 2, eliminando el título de la columna.
+
+```{bash}
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+cut -f2  Data_Trasplante.txt |grep -v "^Muestra" | uniq |wc
+cut -f2  Data_Trasplante.txt |grep --color TH5
+cut -f2  Data_Trasplante.txt |grep --color TH5 > Data_TH5.txt
+ls
+```
+
+**Respuesta** 
+Resultaron 495 muestras.
+
+**3.- ¿Qué pacientes presentaron el mayor número de cargas virales de HHV7 en plasma?**   
+Se seleccionaron las columnas 1 y 19 de Pacientes y carga viral de HHV7 en plasma respectivamente, con el comando "cut". Con "sort -nrK 2" se ordenaron por número (n), inversamente, es decir, de mayor a menor (r) y a partir de la segunda columana (k2), que equivale a la columna 19, correspondiente a la carga viral de HHV7 en plasma, en el archivo original.
+
+```{bash}
+cd /Users/yessicasanchezponce/Doctorado/cursos/UNIX_R/Proyecto_final_UNIXR_trasplante/Data
+cut -f1,19 Data_Trasplante.txt | sort -nrk 2 |head
+```
+
+**Respuesta** 
+Los pacientes TR1, 7, 8, 10 y 15 mostraron las cargas virales de HHV7 en plasma más altas.
